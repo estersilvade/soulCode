@@ -24,7 +24,7 @@
 <img src='https://media.giphy.com/media/dVoj3RV0hUyJlHhRiv/giphy.gif' title="Banner">
 </p>
 <p align="center">
-  ###E Aqui está toda documentação da nossa trajetória 
+  ### Aqui está toda documentação da nossa trajetória 
   </p>
 
 
